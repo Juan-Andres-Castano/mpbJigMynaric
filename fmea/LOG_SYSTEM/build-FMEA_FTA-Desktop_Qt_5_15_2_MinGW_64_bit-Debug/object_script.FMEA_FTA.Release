@@ -1,0 +1,10 @@
+release/comunicationthread.o
+release/lib_crc16.o
+release/main.o
+release/mainwindow.o
+release/mpbpacker.o
+release/mpbparser.o
+release/qrc_fta_power.o
+release/qrc_fta_temp_1.o
+release/moc_comunicationthread.o
+release/moc_mainwindow.o

@@ -1,0 +1,10 @@
+debug/comunicationthread.o
+debug/lib_crc16.o
+debug/main.o
+debug/mainwindow.o
+debug/mpbpacker.o
+debug/mpbparser.o
+debug/qrc_fta_power.o
+debug/qrc_fta_temp_1.o
+debug/moc_comunicationthread.o
+debug/moc_mainwindow.o

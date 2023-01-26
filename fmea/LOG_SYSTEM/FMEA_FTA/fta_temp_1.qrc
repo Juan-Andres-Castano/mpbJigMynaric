@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>FaultTreeDiagramLowTemp.jpg</file>
+        <file>lowPowerFmea.png</file>
+    </qresource>
+</RCC>
